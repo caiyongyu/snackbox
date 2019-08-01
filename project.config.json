@@ -3,8 +3,10 @@
 	"svr": "server/",
 	"miniprogramRoot": "client/",
 	"qcloudRoot": "server/",
-	"setting": {},
-	"appid": "wx0665983af6525b1e",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxfb4972d8a5fd6086",
 	"projectname": "snackbox",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
